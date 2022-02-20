@@ -1,6 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To find the product of two arrays using numpy by using python programming.
 
 ## ALGORITHM:
 
